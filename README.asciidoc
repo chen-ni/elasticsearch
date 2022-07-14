@@ -62,7 +62,7 @@ To build distributions for all supported platforms, run:
 
 Distributions are output to `distributions/archives`.
 
-To run the test suite, see xref:TESTING.asciidoc#_testing_the_rest_layer[TESTING].
+To run the test suite, see xref:TESTING.adoc#_testing_the_rest_layer[TESTING].
 
 [[docs]]
 == Documentation

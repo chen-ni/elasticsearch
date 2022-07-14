@@ -63,7 +63,7 @@ Following these tips prior to raising a pull request will speed up the review
 cycle.
 
 * Add appropriate unit tests (details on writing tests can be found in the
-  [TESTING](TESTING.asciidoc) file)
+  [TESTING](TESTING.adoc) file)
 * Add integration tests, if applicable
 * Make sure the code you add follows the [formatting guidelines](#java-language-formatting-guidelines)
 * Lines that are not part of your change should not be edited (e.g. don't format
@@ -79,7 +79,7 @@ Once your changes and tests are ready to submit for review:
 1. Test your changes
 
     Run the test suite to make sure that nothing is broken. See the
-[TESTING](TESTING.asciidoc) file for help running tests.
+[TESTING](TESTING.adoc) file for help running tests.
 
 2. Sign the Contributor License Agreement
 
