@@ -23,7 +23,7 @@ https://www.elastic.co/cloud/as-a-service[Elasticsearch Service on Elastic
 Cloud].
 
 If you prefer to install and manage Elasticsearch yourself, you can download
-the latest version from 
+the latest version from
 https://www.elastic.co/downloads/elasticsearch[elastic.co/downloads/elasticsearch].
 
 For more installation options, see the
@@ -62,7 +62,7 @@ To build distributions for all supported platforms, run:
 
 Distributions are output to `distributions/archives`.
 
-To run the test suite, see xref:TESTING.asciidoc[TESTING].
+To run the test suite, see xref:TESTING.asciidoc#_testing_the_rest_layer[TESTING].
 
 [[docs]]
 == Documentation
@@ -76,7 +76,7 @@ xref:docs/README.asciidoc[docs README].
 [[contribute]]
 == Contribute
 
-For contribution guidelines, see xref:CONTRIBUTING.md[CONTRIBUTING]. 
+For contribution guidelines, see xref:CONTRIBUTING.md[CONTRIBUTING].
 
 [[questions]]
 == Questions? Problems? Suggestions?

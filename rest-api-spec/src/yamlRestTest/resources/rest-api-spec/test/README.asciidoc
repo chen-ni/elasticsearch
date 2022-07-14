@@ -17,7 +17,7 @@ bin/elasticsearch -Enode.attr.testattr=test -Epath.repo=/tmp -Erepositories.url.
 
 Test execution
 ---------------
-Please refer to /TESTING.asciidoc#testing-the-rest-layer[this section].
+Please refer to xref:/TESTING.asciidoc#_testing_the_rest_layer[this section].
 
 Test file structure
 --------------------
